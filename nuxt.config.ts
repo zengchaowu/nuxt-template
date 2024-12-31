@@ -7,7 +7,8 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     'shadcn-nuxt',
     '@pinia/nuxt',
-    '@nuxtjs/i18n'
+    '@nuxtjs/i18n',
+    '@vueuse/nuxt'
   ],
   i18n: {
     vueI18n: './i18n.config.ts'
