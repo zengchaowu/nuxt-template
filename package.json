@@ -15,6 +15,7 @@
     "vue-router": "latest"
   },
   "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.2",
     "typescript": "^5.7.2"
   }
 }
